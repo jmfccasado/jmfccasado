@@ -1,10 +1,10 @@
-# Olá, eu sou João Marcelo! 👋
+# Olá, eu sou João Marcelo! 
 
 ### 📝 Sobre Mim
 
 Sou estudante de Ciência da Computação e de Sistemas de Informação, com grande interesse na área de design gráfico.
 
-- Atualmente trabalhando em: **CPA 4ALL - Projeto 1**
+- Atualmente trabalhando em: **VERDIGIS - Soluções inteligentes em ESG**
 
 ---
 
@@ -15,7 +15,7 @@ Aqui estão algumas das ferramentas e linguagens com as quais tenho afinidade ou
 | Categoria | Tecnologias |
 | :--- | :--- |
 | **Linguagens** | `Python` `JavaScript` `HTML5` `CSS3` |
-| **Ferramentas** | `Git` `GitHub` `VS Code` `Adobe Illustrator` |
+| **Ferramentas** | `Git` `GitHub` `VS Code` `Adobe Illustrator` `Django` |
 
 ---
 
